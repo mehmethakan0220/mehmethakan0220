@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmethakan0220&show_icons=true&locale=en" alt="mehmethakan0220" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmethakan0220&" alt="mehmethakan0220" /></p>
+<img src="https://github.com/mehmethakan0220/mehmethakan0220/blob/main/github-user-contribution%20(1).svg" alt="Snake animation" style="max-width: 100%;">
